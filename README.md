@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 3
+# Econometria Avançada - Aula 3 - Processos Estocásticos, Estacionariedade e Distribuições de Probabilidade
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
